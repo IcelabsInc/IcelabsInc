@@ -50,7 +50,7 @@ Turn data into actionable insights to fuel growth and make informed business dec
 
 ## 💼 Join Our Team
 
-We're always on the lookout for talented individuals who are passionate about technology. If you're interested in joining our dynamic team, check out our [Careers Page](https://icelabs.ai/careers).
+We're always on the lookout for talented individuals who are passionate about technology. If you're interested in joining our dynamic team, feel free to reachout.
 
 ---
 
@@ -58,16 +58,10 @@ We're always on the lookout for talented individuals who are passionate about te
 
 Interested in working with us or have any questions? Reach out to us!
 
-- **Website**: [www.icelabs.ai](https://www.icelabs.ai)
+- **Website**: [icelabs.ai](https://icelabs.ai)
 - **Email**: team@icelabs.ai
 
 Let’s build the future together! 🚀
-
----
-
-## 🛡️ License
-
-This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
