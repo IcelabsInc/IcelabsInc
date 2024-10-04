@@ -2,7 +2,7 @@
 
 Welcome to **Icelabs Inc.**, where we build innovative technology solutions to drive your business forward. From custom software development to AI-driven applications, we create scalable solutions that solve real-world problems. 🚀
 
-![Icelabs Inc. Logo](https://your-logo-url.com)
+![Icelabs Inc. Logo]([https://your-logo-url.com](https://github.com/IcelabsInc/IcelabsInc/blob/main/Icelabs.png))
 
 ## 🌍 About Icelabs Inc.
 
